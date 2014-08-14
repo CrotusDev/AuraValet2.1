@@ -1,0 +1,31 @@
+[
+    {
+        "ID": "1",
+        "Class":"hotelPics",
+        "Name": "Hotel Policies",
+        "Desc": "<h4 id='hname'>Hotel Policies</h4><p id='pname'>The Welcome consists of two double or twin bedrooms, sofa bed, flat screen TV, bathrooms, fitted kitchen with large living and dining area. The furnished sun terrace offers stunning views over the beautiful gardens and the Atlantic ocean.</p> <p id='pname'>Max Occupancy: 6 Pax + 1 children </p><br/>",
+        "imgUrl": "resources/images/new_images/policies.jpg"
+    },
+    {
+        "ID": "2",
+        "Class":"hotelPics",
+        "Name": "Maps &amp; Directions",
+        "Desc": "<h4 id='hname'>Maps &amp; Directions</h4><p id='pname'>The Welcome consists of two double or twin bedrooms, sofa bed, flat screen TV, bathrooms, fitted kitchen with large living and dining area. The furnished sun terrace offers stunning views over the beautiful gardens and the Atlantic ocean.</p> <p id='pname'>Max Occupancy: 6 Pax + 1 children </p><br/>",
+        "imgUrl": "resources/images/new_images/map.png"
+    }
+    /*{
+        "ID": "3",
+        "Class":"hotelPics",
+        "Name": "Hotel3",
+        "Desc": "<h4 id='hname'>Hotel3</h4><p id='pname'>The Welcome consists of two double or twin bedrooms, sofa bed, flat screen TV, bathrooms, fitted kitchen with large living and dining area. The furnished sun terrace offers stunning views over the beautiful gardens and the Atlantic ocean.</p> <p id='pname'>Max Occupancy: 6 Pax + 1 children </p><br/>",
+        "imgUrl": "resources/images/new_images/3.jpg"
+    },
+    {
+        "ID": "4",
+        "Class":"hotelPics",
+        "Name": "Hotel4",
+        "Desc": "<h4 id='hname'>Hotel4</h4><p id='pname'>The Welcome consists of two double or twin bedrooms, sofa bed, flat screen TV, bathrooms, fitted kitchen with large living and dining area. The furnished sun terrace offers stunning views over the beautiful gardens and the Atlantic ocean.</p> <p id='pname'>Max Occupancy: 6 Pax + 1 children </p><br/>",
+        "imgUrl": "resources/images/new_images/4.jpg"
+    }*/
+]
+

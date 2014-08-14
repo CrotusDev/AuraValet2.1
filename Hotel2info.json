@@ -1,0 +1,15 @@
+[
+    {
+        "rev_class_id": "1",
+        //"Class":"hotel2Pics",
+        "rev_class_name": "Accommodations",
+        "path": "resources/images/new_images/accomodations.jpg"
+    },
+    {
+        "rev_class_id": "2",
+        //"Class":"hotel2Pics",
+        "rev_class_name": "Amenities &amp; Facilities",
+        "path": "resources/images/new_images/amenities.jpg"
+    }
+]
+

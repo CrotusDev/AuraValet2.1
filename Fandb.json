@@ -1,0 +1,30 @@
+[
+    {
+        "ID": "1",
+        "Class":"intPics",
+        "Name": "Welcome",
+        "Desc": "<h4 id='hname'>Welcome</h4><p id='pname'>The Welcome consists of two double or twin bedrooms, sofa bed, flat screen TV, bathrooms, fitted kitchen with large living and dining area. The furnished sun terrace offers stunning views over the beautiful gardens and the Atlantic ocean.</p> <p id='pname'>Max Occupancy: 6 Pax + 1 children </p><br/>",
+        "imgUrl": "resources/images/new_images/1.jpg"
+    },
+    {
+        "ID": "2",
+        "Class":"intPics",
+        "Name": "Meet the Chef",
+        "Desc": "<h4 id='hname'>Meet the Chef</h4><p id='pname'>The Meet the Chef consists of two double or twin bedrooms, sofa bed, flat screen TV, bathrooms, fitted kitchen with large living and dining area. The furnished sun terrace offers stunning views over the beautiful gardens and the Atlantic ocean.</p> <p id='pname'>Max Occupancy: 6 Pax + 1 children </p><br/>",
+        "imgUrl": "resources/images/new_images/2.jpg"
+    },
+    {
+        "ID": "3",
+        "Class":"intPics",
+        "Name": "Loyalty",
+        "Desc": "<h4 id='hname'>Loyalty</h4><p id='pname'>The Loyalty consists of two double or twin bedrooms, sofa bed, flat screen TV, bathrooms, fitted kitchen with large living and dining area. The furnished sun terrace offers stunning views over the beautiful gardens and the Atlantic ocean.</p> <p id='pname'>Max Occupancy: 6 Pax + 1 children </p><br/>",
+        "imgUrl": "resources/images/new_images/3.jpg"
+    },
+    {
+        "ID": "4",
+        "Class":"intPics",
+        "Name": "Wine Supplier",
+        "Desc": "<h4 id='hname'>Wine Supplier</h4><p id='pname'>The Wine Supplier consists of two double or twin bedrooms, sofa bed, flat screen TV, bathrooms, fitted kitchen with large living and dining area. The furnished sun terrace offers stunning views over the beautiful gardens and the Atlantic ocean.</p> <p id='pname'>Max Occupancy: 6 Pax + 1 children </p><br/>",
+        "imgUrl": "resources/images/new_images/4.jpg"
+    }
+]
